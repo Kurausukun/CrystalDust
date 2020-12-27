@@ -159,3 +159,6 @@
 	.include "src/bug_catching_contest.o"
 	.include "src/phone_script.o"
 	.include "src/buenas_password.o"
+
+gSoundInfo:
+	.space 0xFB0
